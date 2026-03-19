@@ -48,16 +48,13 @@ Data Loading → Data Understanding → Data Cleaning → EDA → Feature Engine
 ```
 netflix-data-analysis/
 │
+├── README.md
+│
 ├── data/
 │   └── netflix_titles.csv
 │
 ├── notebooks/
 │   └── netflix_analysis.ipynb
-│
-├── images/
-│   └── (plots/screenshots)
-│
-├── README.md
 │
 └── requirements.txt
 ```
